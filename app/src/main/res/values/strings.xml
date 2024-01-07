@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Broken Single Line Demo</string>
+    <string name="xml_single_line_text_input">Xml Single Line Text Input</string>
+    <string name="single_line_input">Single Line Input</string>
+    <string name="blah">Blah</string>
+    <string name="home">Home</string>
+    <string name="xml">XML</string>
+    <string name="compose">Compose</string>
+    <string name="jetpack_compose_single_line_text_input">Jetpack Compose Single Line Text Input</string>
+</resources>
