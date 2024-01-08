@@ -45,9 +45,9 @@ fun DemoComposable() {
             onValueChange = {
                 text = it
             },
+            singleLine = true,
             modifier = Modifier
                 .fillMaxWidth()
-                .horizontalScroll(rememberScrollState())
         )
         /*
          * OutlinedTextField does the same thing. But it's impossible to see the text if you're
